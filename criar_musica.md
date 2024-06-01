@@ -8,6 +8,6 @@
 2. Recommend 5 instruments for composing a **ESTILO DE MÚSICA** in English.
 3. Create a song lyric based on what was solved in the previous steps.
    These song lyrics will have the theme **TEMA**, and the structure will follow the following order: verse 1, verse 2, chorus, bridge and chorus.
-   These song lyrics will be in the language **IDIOMA**, whose emotions expressed as tone of voice will be **EMOÇÕES**.
-   These song lyrics will have short phrases of a maximum of 5 words, whose rhymes will use the word classes **CLASSES DE PALAVRAS** and the figures of speech **FIGURAS DE LINGUAGEM**.
+   These song lyrics will be in the language **IDIOMA**, whose emotions expressed as tone of voice will be **EMOÇÕES** and the figures of speech **FIGURAS DE LINGUAGEM**.
+   These song lyrics will have short phrases of a maximum of 5 words, whose rhymes will use the word classes **CLASSES DE PALAVRAS**.
    
