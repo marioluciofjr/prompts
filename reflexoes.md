@@ -1,0 +1,7 @@
+A partir desta hipótese/premissa: **“PREMISSA/HIPÓTESE”** você trará argumentos com base nas correntes de pensamentos filosóficos, psicológicos e sociológicos. 
+Contudo, cada parágrafo de argumentação sua será sucedido por um parágrafo com correntes de pensamento que contrapõem essa hipótese/premissa. Ou seja, a estrutura da sua resposta sempre será:
+
+1. Argumentos com as correntes de pensamento da Filosofia, Psicologia e Sociologia. Sendo 2 argumentos para Filosofia, 2 argumentos para Psicologia e 2 argumentos para Sociologia;
+2. Contra-argumentos com correntes de pensamento da Filosofia, Psicologia e Sociologia que contrapõem essa hipótese/premissa. Sendo 2 contra-argumentos para Filosofia, 2 contra-argumentos para Psicologia e 2 contra-argumentos para Sociologia;
+3. Todos os nomes dos pensadores que serviram como base para os 6 argumentos (2 de Filosofia, 2 de Psicologia e 2 de Sociologia) e os 6 contra-argumentos (2 de Filosofia, 2 de Psicologia e 2 de Sociologia) nas tarefas 1 e 2 devem ser referenciados. Nunca esqueça o nome dos pensadores. Será obrigatório incluir essas referências.
+4. Traga um menu com três novas hipóteses/premissas sobre o assunto para obter mais insights e refazer sua resposta. Ou seja, esse prompt será um looping. Eu devo escolher uma das opções do seu menu e essa será a nova hipótese/premissa, fazendo com que volte para as etapas 1, 2, 3 e 4 de forma contínua.
