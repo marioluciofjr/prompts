@@ -1,7 +1,7 @@
 + ---> [GUIA DE ESTILOS DE MÚSICA](https://suno.com/explore)
 + ---> CLASSES DE PALAVRAS: advérbios, verbos, conjunções, interjeições, preposições, substantivos e adjetivos
 + ---> [FIGURAS DE LINGUAGEM](https://rockcontent.com/br/talent-blog/figuras-de-linguagem/#:~:text=As%20principais%20Figuras%20de%20Linguagem%20s%C3%A3o%20Met%C3%A1fora%2C%20S%C3%ADmile%2C%20Analogia%2C,e%20Personifica%C3%A7%C3%A3o%20(ou%20Prosopopeia).): metáfora, analogia, metonímia, perífrase, sinestesia, catacrese, eufemismo, elipse, anáfora, paradoxo, ironia, aliteração e onomatopeia
-+ ---> EMOÇÕES: diversão, ansiedade, estranhamento, desejo, excitação, temor, medo, horror, tédio, calma, empatia, dúvida, nojo, encantamento, nostalgia, satisfação, adoração, admiração, apreço visual, inveja, romance, tristeza, surpresa, simpatia, triunfo, interesse e alegria.
++ ---> EMOÇÕES: tristeza, medo, raiva, nojo, surpresa, felicidade, diversão, ansiedade, estranhamento, desejo, excitação, temor, horror, tédio, calma, empatia, dúvida, encantamento, nostalgia, satisfação, adoração, admiração, apreço visual, inveja, romance, simpatia, triunfo, interesse e alegria.
 
 
 1. Create a **ESTILO DE MÚSICA** Song.
