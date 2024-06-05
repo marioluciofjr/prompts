@@ -1,12 +1,10 @@
-## Método P.A.T.O. 🦆
+## Método ELI5 🛝
 
-Persona: **{COLOQUE A FUNÇÃO QUE ESPERA DA IA}**
+Função: **COLOQUE A FUNÇÃO/ATRIBUIÇÃO QUE A IA EXERCERÁ**
 
-Analogia: **{COLOQUE UM ASSUNTO QUE VOCÊ ENTENDE}**
+Tarefa: ELI5 **"COLOQUE O ASSUNTO COMPLEXO QUE DESEJA EXPLICAÇÃO"**
 
-Tarefa: ELI5 **"{ASSUNTO QUE VOCÊ QUER QUE A IA EXPLIQUE}"** a partir da {Analogia}
-
-Orientação: **{FORMATO DO RESULTADO + DIRECIONAMENTO + REGRAS}**
+Recurso de explicação: **COLOQUE UM RECURSO QUE VOCÊ ASSIMILA MELHOR OS ASSUNTOS**
 
 ## Entenda melhor sobre o conceito de ELI5
 
