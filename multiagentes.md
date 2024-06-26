@@ -24,3 +24,7 @@ Os agentes são independentes uns dos outros, mas vão tentar resolver simultane
 
 + [Sistema de criação de conteúdo infinito](https://www.linkedin.com/feed/update/urn:li:activity:7211329909128912896?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7211329909128912896%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 + [Técnica INSANA sobre a Criação de AGENTES de IA](https://www.youtube.com/live/P40Dwp18dhA?si=xvJbptMI0pREPiwI)
+
+## Dica
+
+Se a IA travar, digite "continue"
