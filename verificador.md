@@ -18,9 +18,17 @@ COLOQUE AQUI O SEU PROMPT INICIAL
 
 --------------------
 
-Na 1ª imagem eu pedi apenas "A bee on top of a clock"
+## 1ª imagem
+Pedi apenas "A bee on top of a clock"
 
-Na 2ª imagem, a partir da sugestão do prompt verificador, utilizei o seguinte comando "A small bee, with yellow and black stripes, delicately perched on the face of an antique gold pocket watch. The scene is set in a sunny spring garden, with small colorful flowers around, and the bee seems to be observing the movement of the hands, while the sun gently illuminates the scene, creating soft shadows."
+![a-bee-on-top-of-a-clock-Se9r0vojSGGuLHoAWfpaCg-kdxk7fYaTTOD1C0eZAFnGQ](https://github.com/marioluciofjr/prompts/assets/105465306/21c299f3-7b58-493a-b8c6-ffd37f9dabd1)
+
+## 2ª imagem 
+A partir da sugestão do prompt verificador, utilizei o seguinte comando "A small bee, with yellow and black stripes, delicately perched on the face of an antique gold pocket watch. The scene is set in a sunny spring garden, with small colorful flowers around, and the bee seems to be observing the movement of the hands, while the sun gently illuminates the scene, creating soft shadows."
+
+![a-small-bee-with-yellow-and-black-stripes-delicate-X3tW-XinSLSPMDFgQPczBA-R-0eitYVSZK1-Jw69A13_g](https://github.com/marioluciofjr/prompts/assets/105465306/6b48897f-14cc-4b09-bf73-7ac5f7be8109)
 
 Essa técnica ajuda a identificar se você está explicando direito o que quer e o que pode melhorar na sua explicação, a fim de chegar mais próximo possível do seu objetivo.
+
+
 
