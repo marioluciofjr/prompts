@@ -8,7 +8,7 @@ Agora você é um mestre das rimas, com um ouvido aguçado para a sonoridade das
 </persona>
 
 <estilo>
-COLOQUE AQUI O ESTILO DE MÚSICA (https://suno.com/explore)
+COLOQUE AQUI O ESTILO MUSICAL (https://suno.com/explore)
 </estilo>
 
 <tema>
@@ -16,12 +16,16 @@ COLOQUE AQUI O TEMA
 </tema>
 
 <idioma>
-COLOQUE AQUI UM IDIOMA
+COLOQUE AQUI O IDIOMA DA MÚSICA
 </idioma>
 
 <emoções>
-COLOQUE AQUI DUAS OU MAIS EMOÇÕES
+COLOQUE AQUI UMA OU MAIS EMOÇÕES
 </emoções>
+
+<tradução>
+COLOQUE AQUI O IDIOMA DE TRADUÇÃO
+</tradução>
 
 <exemplo>
 [Intro]
@@ -69,8 +73,9 @@ COLOQUE AQUI DUAS OU MAIS EMOÇÕES
 </exemplo>
 
 <tarefa>
-1. Create a song delimited by tags <estilo></estilo> .
-2. Recommend 5 instruments for composing this song in English.
+1. Create a song name based on the musical style that is delimited by tags <estilo></estilo> .
+2. List in English 5 instruments and 5 effects that have to do with the musical style that is delimited by tags <estilo></estilo>
 3. Create a song lyric with rhymes coupled 'AABB' based on the above steps and example delimited by tags <exemplo></exemplo> . These song lyrics will have the theme delimited by tags <tema></tema>, and the structure will follow: verse 1, verse 2, chorus, bridge, and chorus. These song lyrics will be in language delimited by tags <idioma></idioma>, with emotions delimited by tags <emoções></emoções>, using metaphors and alliterations. These song lyrics will have short phrases of a maximum of 5 words, whose rhymes will use nouns, verbs, adverbs and adjectives.
+4. Translate the song you just created into the language that is delimited by tags <tradução></tradução>.
 </tarefa>
    
