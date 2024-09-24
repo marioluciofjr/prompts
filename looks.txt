@@ -1,0 +1,18 @@
+PROMPT PARA VERIFICAR COMBINAÇÕES DE ROUPAS PARA DIFERENTES OCASIÕES
+
+<contexto_ocasião>
+{COLOQUE AQUI A OCASIÃO}
+</contexto_ocasião>
+
+<identidade_de_gênero>
+{COLOQUE AQUI SUA IDENTIDADE DE GÊNERO}
+</identidade_de_gênero>
+
+<tarefa>
+Utilizando como base o conceito de word embeddings, classifique os 10 looks detalhistas com maior probabilidade de serem utilizados na ocasião presente em <contexto_ocasião></contexto_ocasião>, 
+levando em consideração a pessoa presente em <identidade_de_gênero></identidade_de_gênero>. Formato de saída: uma tabela com os looks, as probabilidades e os sentimentos que tais looks podem causar nas pessoas.
+</tarefa>
+
+<regra>
+Cada look deve estar devidamente detalhado, ou seja, o que será usado acima da cintura e o que estará abaixo da cintura (caso não seja um vestido). Especifique detalhes da roupa e possíveis combinações utilizando uma paleta de cores harmoniosa com a ocasião.
+</regra>
