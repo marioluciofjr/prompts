@@ -20,6 +20,7 @@ COLOQUE AQUI O PÚBLICO-ALVO DESSE FORMULÁRIO
 </tarefa>
 
 <exemplo de script>
+```
 function createBSCForm() {
   var form = FormApp.create('Avaliação de Conhecimentos em Balanced Scorecard');
   form.setIsQuiz(true); // Define o formulário como um questionário
@@ -50,4 +51,5 @@ function createBSCForm() {
   var formUrl = form.getPublishedUrl();
   Logger.log('Link do formulário: ' + formUrl);
 }
+```
 </exemplo de script>
