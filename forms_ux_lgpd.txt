@@ -1,0 +1,20 @@
+**PROMPT PARA CRIAR UM GOOGLE FORMS DE ACORDO COM AS HEURÍSTICAS DE NIELSEN E OS PRINCÍPIOS DA LGPD**
+
+<contexto>
+{COLOQUE AQUI O TEMA DO SEU FORMS E O PORQUÊ DESSE TEMA}
+</contexto>
+
+<público>
+{COLOQUE AQUI O SEU PÚBLICO-ALVO}
+</público>
+
+<tarefa>
+1. Utilizando as heurísticas de Nielsen e os princípios da LGPD como premissas, crie um modelo de formulário para Google Forms com 1 questão sobre consentimento e 10 questões sobre o tema do contexto, 
+levando em consideração o público. Organize seu raciocínio passo a passo, reflita sobre o que gerou e revise criticamente para apontar 5 falhas no atual formulário que podem ser corrigidas.
+
+2. Com base na sua revisão crítica, refaça o formulário inteiro para suprir as 5 falhas do primeiro formulário gerado. Justifique todas as suas escolhas.
+</tarefa>
+
+<regras>
+O formulário deve conter obrigatoriamente: título, objetivo do formulário, resumo das seções e tempo máximo de preenchimento do formulário.
+</regras>
