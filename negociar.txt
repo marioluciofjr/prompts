@@ -1,0 +1,14 @@
+*PROMPT PARA NEGOCIAÇÕES*
+
+<proposta>
+{{COLOQUE AQUI A DESCRIÇÃO DE UMA VAGA OU NEGOCIAÇÃO DE SERVIÇO}}
+</proposta>
+
+<meu_interesse>
+{{COLOQUE AQUI O SEU INTERESSE E CONDIÇÕES}}
+</meu_interesse>
+
+<tarefa>
+1. Identifique a ZOPA (Zona de Possível Acordo).
+2. Proponha 5 soluções BATNA (Melhor Alternativa a um Acordo Negociado)
+</tarefa>
