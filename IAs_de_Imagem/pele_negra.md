@@ -251,4 +251,7 @@ White background, close-up angle, HDR, color adjustment, 4k resolution.
 
 ## Exemplos
 
-
+![glif-pele-negra-flux-pro-v1-1-ultra-marioluciofjr-ruj7q5cq32h39gx2yf6w75rn](https://github.com/user-attachments/assets/f313d999-6f46-4f51-9e6e-bf69b1b59f8f)
+![glif-pele-negra-flux-pro-v1-1-ultra-marioluciofjr-sys4ekdjfgmhr05grz0g8l2p](https://github.com/user-attachments/assets/5edc6748-50ba-4236-80bd-9c011a1e9a15)
+![glif-pele-negra-flux-pro-v1-1-ultra-marioluciofjr-mkq9j14irsbzbkyovfpm7g45](https://github.com/user-attachments/assets/179eff58-6a65-4e7a-a2cf-ab05f4b067b5)
+![glif-pele-negra-flux-pro-v1-1-ultra-marioluciofjr-cwqia193vmot32xnz7wt2gyw](https://github.com/user-attachments/assets/cd99aa0a-9cc0-4fd2-b88b-4e18c51bf465)
