@@ -1,10 +1,12 @@
 # Prompt para gerar fotos profissionais
 
-Physical Description: {DESCRIÇÃO FÍSICA DA PESSOA}\
-Clothing: {ROUPA QUE A PESSOA ESTÁ USANDO}\
-Photo Pose: {POSE DA FOTO}\
-Background: {PLANO DE FUNDO}\
+```
+Physical Description: {DESCRIÇÃO FÍSICA DA PESSOA}
+Clothing: {ROUPA QUE A PESSOA ESTÁ USANDO}
+Photo Pose: {POSE DA FOTO}
+Background: {PLANO DE FUNDO}
 Image quality: {ASPECTOS QUE PODEM DAR QUALIDADE PARA A IMAGEM}
+```
 
 ## Exemplos
 
