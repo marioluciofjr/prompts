@@ -19,9 +19,27 @@ Uma aranha lobo nas costas de um gato marrom
 </tema>
 
 <tarefa>
-1. Analise o tema e faça 3 suposições do que a pessoa usuária pode ter pedido. Escolha uma dessas suposições e justifique detalhadamente sua escolha. 
-2. Crie um prompt em português brasileiro com delimitadores, utilizando o método 3W1H a partir da suposição escolhida e considerando que deve resolver o problema do tema. 
-3. Traduza o prompt para o inglês, acrescentando estes parâmetros no fim do prompt: HDR, color adjustment, 4k resolution. 
+1. Analise o tema e faça 3 suposições do que a pessoa usuária pode ter pedido. Escolha uma dessas suposições que você julga mais relevante para o tema e justifique detalhadamente sua escolha. 
+2. Crie um prompt em português brasileiro, utilizando o método 3W1H a partir da suposição escolhida e considerando que deve resolver o problema do tema. O formato de saída deve ser este: 
+
+
+Who: ${who}
+What: ${what}
+Where: ${where}
+How: ${how}
+
+
+3. Traduza o prompt para o inglês, acrescentando estes parâmetros no fim do prompt: HDR, color adjustment, 4k resolution. O formato final ficará assim: 
+
+
+Who: ${who}
+What: ${what}
+Where: ${where}
+How: ${how}
+Params: ${params}
+
+
+4. Faça um text alt dessa imagem em português brasileiro com até 20 palavras, texto alinhado à esquerda.
 </tarefa>
 ```
 
