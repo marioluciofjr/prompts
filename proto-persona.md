@@ -1,5 +1,6 @@
 **Prompt para criar uma proto-persona no ChatGPT**
 
+```
 <contexto>
 {COLOQUE AQUI AS SOLUÇÕES DA SUA EMPRESA}
 </contexto>
@@ -19,3 +20,4 @@ Desafios: ____________________________________________________________
 
 3. Pegue o prompt em inglês e gere uma imagem com o DALL-E.
 </tarefa>
+```
