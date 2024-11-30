@@ -1,3 +1,6 @@
+## Prompt para criar um blogpost que esteja de acordo com boas técnicas de SEO e passse nna avaliação do plugin Yoast, do Wordpress.
+
+```
 Gere um título em H1 de até 60 caracteres, uma metadescrição de até 160 caracteres e um blogpost com base nas seguintes informações:
 
 - Tema: [INSERIR TEMA]
@@ -62,3 +65,4 @@ Siga estas etapas para criar o conteúdo:
 13. Após apresentar o conteúdo, forneça uma breve explicação sobre como o texto atende aos requisitos especificados e como ele se alinha ao objetivo e ao funil de marketing.
 
 Lembre-se de manter a consistência em todo o processo de criação e garantir que o conteúdo seja envolvente, informativo e otimizado para SEO.
+```
