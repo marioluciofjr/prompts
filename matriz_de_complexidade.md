@@ -30,7 +30,7 @@ No eixo Y, a atribuição grande representa que as demandas estão muito complex
 
 <tarefa>
 1. Crie uma matriz de complexidade com base nas demandas recebidas pela empresa, levando em consideração a expertise presente no contexto.
-2. Analise criticamente o cenário para quebrar e refinar em 3 demandas menores as possíveis demandas de alta complexidade e/ou alta incerteza. 
+2. Analise criticamente o cenário para quebrar e refinar em 5 demandas menores as possíveis demandas de alta complexidade e/ou alta incerteza. 
 3. Pense passo a passo para escalar a ordem de prioridades de demandas, justificando suas escolhas por meio de metodologias ágeis.
 </tarefa>
 ```
