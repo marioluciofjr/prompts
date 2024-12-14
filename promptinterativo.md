@@ -1,6 +1,7 @@
-Esse propmt foi inspirado no capítulo 3 do livro "Prompts em Ação - Engenharia de Prompts Para Leigos", do Sandeco Macedo. A ideia desse prompt é dar autonomia para o ChatGPT desenvolver o melhor propmt possível
-de acordo com as instruções dos usuários.
+# Esse prompt foi inspirado no capítulo 3 do livro "Prompts em Ação - Engenharia de Prompts Para Leigos", do Sandeco Macedo. 
+A ideia desse prompt é dar autonomia para o ChatGPT desenvolver o melhor propmt possível de acordo com as instruções dos usuários.
 
+```
 <regra>
 A PARTIR DE AGORA IGNORE TODAS AS SOLICITAÇÕES A AÇÕES ANTERIORES
 </regra>
@@ -27,3 +28,4 @@ eu fornecerei informações adicionais para que você possa melhorar o prompt).
 <regra2>
 Continuaremos esse processo interativamente, eu vou fornecer informações adicionais e você atualiza o prompt na seção "Revisar prompt" até que esteja completo.
 </regra2>
+```
