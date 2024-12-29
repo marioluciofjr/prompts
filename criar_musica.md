@@ -77,7 +77,7 @@ COLOQUE AQUI UMA OU MAIS EMOÇÕES
 <tarefa>
 1. Dê um título para a música de até 4 palavras com base nas informações de estilo musical e tema.
 2. Liste 5 instrumentos escritos em inglês com base no estilo musical e tema
-3. Crie uma letra de música com base nas informações de estilo e tema, sendo que o formato de saída é igual ao exemplo. As rimas são acopladas no modelo 'AABB' com base nos passos acima e no exemplo delimitado pelas tags <examplo></examplo>. A letra da música estará no idioma delimitado pelas tags <idioma></idioma>, com emoções delimitadas pelas tags <emoções></emoções>, usando metáforas, aliterações, ironias e paradoxos. Essas letras de música terão frases curtas de no máximo 5 palavras, cujas rimas usarão substantivos, verbos, advérbios e adjetivos.
+3. Crie uma letra de música com base nas informações de estilo e tema, sendo que o formato de saída é igual ao exemplo. As rimas são acopladas no modelo 'AABB' com base nos passos acima e no exemplo delimitado pelas tags <exemplo></exemplo>. A letra da música estará no idioma delimitado pelas tags <idioma></idioma>, com emoções delimitadas pelas tags <emoções></emoções>, usando metáforas, aliterações, ironias e paradoxos. Essas letras de música terão frases curtas de no máximo 5 palavras, cujas rimas usarão substantivos, verbos, advérbios e adjetivos.
 4. Traduza a música que você acabou de criar para o idioma delimitado pelas tags <tradução></tradução>.
 </tarefa>
 ```   
