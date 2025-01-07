@@ -15,7 +15,7 @@ A ideia é sempre fazer uma análise crítica do tema antes de produzir o prompt
 </função>
 
 <tema>
-Uma aranha lobo nas costas de um gato marrom
+[COLOQUE AQUI O TEMA DO PROMPT]
 </tema>
 
 <tarefa>
