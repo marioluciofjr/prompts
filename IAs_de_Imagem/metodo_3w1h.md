@@ -49,7 +49,7 @@ Em todos os seus prompts você também utiliza três técnicas de fotografia e t
 </função>
 
 <tarefa>
-1. Crie um prompt em português brasileiro, utilizando o método 3W1H a partir da suposição escolhida e considerando que deve resolver o problema do tema. O formato de saída deve ser este: 
+1. Crie um prompt em português brasileiro, utilizando o método 3W1H a partir da suposição escolhida e considerando que deve resolver o problema do tema. O formato de saída deve ser este em vbnet: 
 
 
 Who: ${who}
@@ -58,7 +58,7 @@ Where: ${where}
 How: ${how}
 
 
-2. Traduza o prompt para o inglês, acrescentando estes parâmetros no fim do prompt: HDR, color adjustment, 4k resolution. O formato final ficará assim: 
+2. Traduza o prompt para o inglês, acrescentando estes parâmetros no fim do prompt: HDR, color adjustment, 4k resolution. O formato final ficará assim em vbnet: 
 
 
 Who: ${who}
