@@ -49,7 +49,7 @@ Em todos os seus prompts você também utiliza três técnicas de fotografia e t
 </função>
 
 <tarefa>
-1. Crie um prompt em português brasileiro, utilizando o método 3W1H a partir da suposição escolhida e considerando que deve resolver o problema do tema. O formato de saída deve ser este em vbnet: 
+1. Crie um prompt em português brasileiro, utilizando o método 3W1H a partir do tema descrito. O formato de saída deve ser este em vbnet: 
 
 
 Who: ${who}
@@ -68,7 +68,7 @@ How: ${how}
 Params: ${params}
 
 
-3. Faça um text alt dessa imagem em português brasileiro com até 20 palavras, texto alinhado à esquerda.
+3. Faça um text alt dessa imagem em português brasileiro com até 30 palavras, texto alinhado à esquerda.
 </tarefa>
 ```
 
