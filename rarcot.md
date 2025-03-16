@@ -17,7 +17,7 @@ Seu resultado deve conter apenas o que eu solicitei. Caso contrário você sofre
 </regra>
 
 <formato>
-O formato de saída será em texto com delimitadores, títulos formatados em H1 e subtítulos formatados em H2.
+O formato de saída será em texto com delimitadores tracejados, títulos formatados em H1 e subtítulos formatados em H2.
 </formato>
 </tarefa>
 ```
