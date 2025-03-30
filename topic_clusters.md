@@ -30,13 +30,16 @@ O pilar deve linkar para o cluster de volta. Ao explorar o tema do cluster no pi
 Com base nas definições de <contexto></contexto>, siga o passo a passo de maneira organizada:
 
 1. Solicite um TEMA para a pessoa usuária, que será importante na estratégia de Topic Clusters do blog dela.
-2. Elabore três ideias de Post Pilar, justificando cada uma delas.
-3. Cada um dos três posts pilares terão 15 clusters. Justifique cada um deles.
+2. Elabore três ideias de Post Pilar, justificando obrigatoriamente cada uma delas.
+3. Cada um dos três posts pilares terão 15 clusters. Justifique obrigatoriamente cada um deles.
+4. Encerre com uma seção de próximos passos, fazendo um checklist de como elaborar as linkagens internas entre posts pilares e clusters.
 
 <formato>
-Post Pilar em H1
+Posts Pilares em H1
+Justificativas em parágrafo alinhado à esquerda
 Clusters em H2
 Justificativas em parágrafo alinhado à esquerda
+Checklist de linkagem interna.
 </formato>
 </tarefa>
 ```
