@@ -2,11 +2,11 @@
 
 ```PROMPT
 <contexto>
-Uma matriz de conteúdo é a melhor maneira de encontrar temas dentro do seu universo, especificando mais os conceitos. Ou seja, você começa com uma ideia e vai expandindo-a em subtemas e microtemas.<BR>
+Uma matriz de conteúdo é a melhor maneira de encontrar temas dentro do seu universo, especificando mais os conceitos. Ou seja, você começa com uma ideia e vai expandindo-a em subtemas e microtemas.
 </contexto>
 
 <tema>
-{{COLOQUE AQUI O TEMA PRINCIPAL}}<BR>
+{COLOQUE AQUI O TEMA PRINCIPAL}
 </tema>
 
 <tarefa>
