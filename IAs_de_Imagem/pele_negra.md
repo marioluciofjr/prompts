@@ -82,7 +82,7 @@ White background, close-up angle, HDR, color adjustment, 4k resolution.
     <tr>
       <td>5</td>
       <td>brown skin tone and olive undertone</td>
-      <td>tom de pele moreno e tom oliva</td>
+      <td>tom de pele parda e tom oliva</td>
     </tr>
     <tr>
       <td>6</td>
@@ -152,7 +152,7 @@ White background, close-up angle, HDR, color adjustment, 4k resolution.
     <tr>
       <td>19</td>
       <td>brown skin tone and warm undertone</td>
-      <td>tom de pele moreno e tom quente</td>
+      <td>tom de pele pardo e tom quente</td>
     </tr>
     <tr>
       <td>20</td>
@@ -222,7 +222,7 @@ White background, close-up angle, HDR, color adjustment, 4k resolution.
     <tr>
       <td>33</td>
       <td>brown skin tone and cold undertone</td>
-      <td>tom de pele moreno e tom frio</td>
+      <td>tom de pele pardo e tom frio</td>
     </tr>
     <tr>
       <td>34</td>
@@ -232,7 +232,7 @@ White background, close-up angle, HDR, color adjustment, 4k resolution.
     <tr>
       <td>35</td>
       <td>very deep brown skin tone and cold undertone</td>
-      <td>tom de pele moreno muito profundo e tom frio</td>
+      <td>tom de pele pardo muito profundo e tom frio</td>
     </tr>
     <tr>
       <td>36</td>
@@ -292,7 +292,7 @@ White background, close-up angle, HDR, color adjustment, 4k resolution.
     <tr>
       <td>47</td>
       <td>brown skin tone and neutral undertone</td>
-      <td>tom de pele moreno e tom neutro</td>
+      <td>tom de pele pardo e tom neutro</td>
     </tr>
     <tr>
       <td>48</td>
@@ -362,7 +362,7 @@ White background, close-up angle, HDR, color adjustment, 4k resolution.
     <tr>
       <td>61</td>
       <td>brown skin tone and olive undertone</td>
-      <td>tom de pele moreno e tom oliva</td>
+      <td>tom de pele pardo e tom oliva</td>
     </tr>
     <tr>
       <td>62</td>
@@ -432,7 +432,7 @@ White background, close-up angle, HDR, color adjustment, 4k resolution.
     <tr>
       <td>75</td>
       <td>brown skin tone and warm undertone</td>
-      <td>tom de pele moreno e tom quente</td>
+      <td>tom de pele pardo e tom quente</td>
     </tr>
     <tr>
       <td>76</td>
@@ -502,7 +502,7 @@ White background, close-up angle, HDR, color adjustment, 4k resolution.
     <tr>
       <td>89</td>
       <td>brown skin tone and cold undertone</td>
-      <td>tom de pele moreno e tom frio</td>
+      <td>tom de pele pardo e tom frio</td>
     </tr>
     <tr>
       <td>90</td>
@@ -512,7 +512,7 @@ White background, close-up angle, HDR, color adjustment, 4k resolution.
     <tr>
       <td>91</td>
       <td>very deep brown skin tone and cold undertone</td>
-      <td>tom de pele moreno muito profundo e tom frio</td>
+      <td>tom de pele pardo muito profundo e tom frio</td>
     </tr>
     <tr>
       <td>92</td>
@@ -572,7 +572,7 @@ White background, close-up angle, HDR, color adjustment, 4k resolution.
     <tr>
       <td>103</td>
       <td>brown skin tone and neutral undertone</td>
-      <td>tom de pele moreno e tom neutro</td>
+      <td>tom de pele pardo e tom neutro</td>
     </tr>
     <tr>
       <td>104</td>
@@ -642,7 +642,7 @@ White background, close-up angle, HDR, color adjustment, 4k resolution.
     <tr>
       <td>117</td>
       <td>brown skin tone and olive undertone</td>
-      <td>tom de pele moreno e tom oliva</td>
+      <td>tom de pele pardo e tom oliva</td>
     </tr>
     <tr>
       <td>118</td>
@@ -712,7 +712,7 @@ White background, close-up angle, HDR, color adjustment, 4k resolution.
     <tr>
       <td>131</td>
       <td>brown skin tone and warm undertone</td>
-      <td>tom de pele moreno e tom quente</td>
+      <td>tom de pele pardo e tom quente</td>
     </tr>
     <tr>
       <td>132</td>
@@ -782,7 +782,7 @@ White background, close-up angle, HDR, color adjustment, 4k resolution.
     <tr>
       <td>145</td>
       <td>brown skin tone and cold undertone</td>
-      <td>tom de pele moreno e tom frio</td>
+      <td>tom de pele pardo e tom frio</td>
     </tr>
     <tr>
       <td>146</td>
@@ -792,7 +792,7 @@ White background, close-up angle, HDR, color adjustment, 4k resolution.
     <tr>
       <td>147</td>
       <td>very deep brown skin tone and cold undertone</td>
-      <td>tom de pele moreno muito profundo e tom frio</td>
+      <td>tom de pele pardo muito profundo e tom frio</td>
     </tr>
     <tr>
       <td>148</td>
@@ -852,7 +852,7 @@ White background, close-up angle, HDR, color adjustment, 4k resolution.
     <tr>
       <td>159</td>
       <td>brown skin tone and neutral undertone</td>
-      <td>tom de pele moreno e tom neutro</td>
+      <td>tom de pele pardo e tom neutro</td>
     </tr>
     <tr>
       <td>160</td>
