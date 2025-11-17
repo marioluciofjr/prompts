@@ -82,7 +82,7 @@ White background, close-up angle, HDR, color adjustment, 4k resolution.
     <tr>
       <td>5</td>
       <td>brown skin tone and olive undertone</td>
-      <td>tom de pele parda e tom oliva</td>
+      <td>tom de pele pardo e tom oliva</td>
     </tr>
     <tr>
       <td>6</td>
