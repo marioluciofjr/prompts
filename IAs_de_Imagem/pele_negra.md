@@ -918,7 +918,7 @@ White background, close-up angle, HDR, color adjustment, 4k resolution.
     <tr>
       <td>1</td>
       <td>Bald</td>
-      <td>Calvo</td>
+      <td>Careca</td>
     </tr>
     <tr>
       <td>2</td>
