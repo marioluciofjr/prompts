@@ -58,12 +58,3 @@ Frame 9 – Point of View (POV) Shot: the camera precisely adopts the main chara
 5 - Maintain consistency of all elements in the scene. The idea is that the SAME SCENE unfolds into different perspectives, with all elements in the **SAME POSITIONS**, but viewed from different angles.
 6 - The 9 images must **ALL** have the same size in the 3×3 grid, and this is **ESSENTIAL**.
 ```
-
-- - - - - - - - - - - - - - - - - - - - - - -
-
-## Para extrair um frame do grid
-Basta substituir as letras x pelos números correspondentes. Exemplo: se você quer a imagem 7, então será 'Frame 7 [row 3, columm 1]'
-```
-Edit - Image Extraction
-Frame x [row x, columm x]
-```
