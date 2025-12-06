@@ -1,4 +1,4 @@
-# Prompt 'Ponto de Vista'
+# Prompt 'Pontos de Vista'
 A ideia deste prompt surgiu ao ver a maravilhosa [postagem do perfil @diaegoalmeida.ia](https://www.instagram.com/p/DRw-wH-Dl8G/?img_index=5&igsh=MWlwb2IwMjNnOGdtNQ%3D%3D) sobre gerar imagens em um grid 3x3
 
 ## Versão pt-BR
