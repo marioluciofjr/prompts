@@ -115,8 +115,7 @@ Pense passo a passo para executar cada etapa da tarefa:
 who: str
 what: str
 where: str
-how: str
-```
+how: str```
 - - - - - - - - - - - - - - - - - - - - - - - 
 
 #### prompt en
@@ -125,15 +124,13 @@ how: str
 who: str
 what: str
 where: str
-how: str
-```
+how: str```
 - - - - - - - - - - - - - - - - - - - - - - - 
 
 #### alt text
 
 ```plaintext
-str
-```
+str```
 
 ## regras
 
