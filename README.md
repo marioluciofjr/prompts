@@ -30,9 +30,6 @@ Na **raiz do repositório**, estão os prompts para uso em IAs de texto. Cada ar
 
 A pasta **`IAs_de_Imagem/`** reúne prompts voltados exclusivamente para ferramentas de geração de imagens. Os templates cobrem estilos variados como infográficos, figurinhas, fotografias de estúdio, personagens 3D, capas de LinkedIn, HQs e muito mais.
 
-> [!IMPORTANT]
-> Want to better understand this repository, but you don't speak Portuguese? Check out this complete tutorial: [`Codebase - prompts`]( )
-
 ## Tecnologias utilizadas
 
 <div>
