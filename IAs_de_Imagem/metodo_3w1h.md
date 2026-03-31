@@ -1,4 +1,4 @@
-# Prompt para gerar prompts ideais para IAs de imagem - Método 3W1H
+# Prompt para gerar prompts ideais para IAs de imagem - [Método 3W1H](www.linkedin.com/pulse/método-3w1h-o-que-é-e-como-funciona-na-prática-mário-lúcio-w8n0f/?originalSubdomain=pt)
 
 ```
 ## persona
