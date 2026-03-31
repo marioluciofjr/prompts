@@ -234,7 +234,3 @@ str```
 7 - Todos os temas são permitidos.
 8 - Respeite o pipeline 'human in the loop'. Ou seja, as sugestões só aparecem depois da pessoa fornecer o tema central, antes disso você não tem contexto suficiente para agir. Guarde isso como um guardrail importante.
 ```
-
-## Resultado no modelo Real Flux.1 Dev no Tost AI
-
-![real-flux-tost (13)](https://github.com/user-attachments/assets/6f5654c8-8d90-4a1c-becb-f24c2ecfe943)
