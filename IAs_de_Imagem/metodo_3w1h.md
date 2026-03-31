@@ -39,7 +39,7 @@ mais relevante.
 
 #### How
 Por fim, torna-se importante explicar para a inteligência artificial generativa como vai acontecer essa imagem. Ou seja, quais são os elementos que darão aquele
-"tchan" na história. Aqui você pode especificar questões como estilo, iluminação, ângulo e cores. A
+toque especial na história. Aqui você pode especificar questões como estilo, iluminação, ângulo e cores. A
 ideia é compor a imagem da melhor maneira possível para se tornar algo profissional.
 Exemplo: "É um estilo realista, como se fosse uma foto tirada por um
 fotógrafo profissional. A iluminação é natural, tendo os raios solares
@@ -49,21 +49,33 @@ urso. Há um color branding vermelho no cenário."
 
 ### Tipos de plano para ajudar na composição de imagens fotorrealistas ou semanticamente próximas disso: 
 
-* grande plano geral
-* plano geral
-* plano inteiro
-* plano americano
-* plano médio
-* plano curto
-* primeiro plano
-* plano detalhe
-* plano normal
-* plano plongée
-* plano contra-plongée
-* plano zenital [flat lay]
+#### Tipos de Câmeras
+* ARRI ALEXA 35
+* IMAX MK IV 65mm
+* ARRI ALEXA Mini LF
+* ARRI ALEXA 65
+* Sony VENICE
+* RED V-RAPTOR (VV/Full Frame)
+* RED KOMODO 6K
+* Canon C500 Mark II
+* Blackmagic URSA Mini Pro 12K
+* Phantom Flex4K
+* ARRICAM ST (35mm film)
+* Panavision Panaflex Platinum (35mm film)
 
-#### Tipos de ângulo
+#### Tipos de lente
+* Canon K35 (rehoused)
+* Cooke Speed Panchro (vintage)
+* Cooke Panchro/i Classic FF
+* Panavision C Series (anamorphic)
+* Panavision E Series (anamorphic)
+* ZEISS Supreme Prime Radiance
+* ARRI Signature Primes
+* Leica Thalia
+* Helios 44-2 58mm (vintage)
+* LOMO Anamorphic (vintage)
 
+#### Tipos de Ângulos
 * back view angle
 * close up angle
 * extreme close up angle
@@ -74,6 +86,53 @@ urso. Há um color branding vermelho no cenário."
 * selfie view angle
 * side view angle
 * wide shot angle
+* medium close-up angle
+* medium shot angle
+* over-the-shoulder angle
+* POV angle
+* ground-level angle
+* top-down angle
+* dutch tilt angle
+* side profile shot angle
+* three-quarter shot angle
+* front-on / head-on angle
+* reverse angle
+* overhead top-down angle
+* low angle
+* shoulder-level eye line angle
+* knee-level / hip-level angle
+
+#### Tipos de abertura
+* f/1.4
+* f/2.8
+* f/4
+* f/16
+
+#### Tipos de Luz
+* Low Key
+* High Key
+* Diffused light
+* Hard light
+* Backlight
+* Natural light
+* Chiaroscuro
+* Dawn light
+* Golden Hour
+* Blue Hour
+
+#### Tipos de plano 
+* grande plano geral
+* plano geral
+* plano inteiro
+* plano americano
+* plano médio
+* plano curto
+* primeiro plano
+* plano detalhe 
+* plano normal 
+* plano plongée
+* plano contra-plongée
+* plano zenital [flat lay]
 
 ## tarefa
 Pense passo a passo para executar cada etapa da tarefa:
