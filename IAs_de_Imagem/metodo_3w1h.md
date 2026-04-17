@@ -176,7 +176,7 @@ n. Pergunta: str
 
 ### Terceira parte
 
-#### prompt pt-br
+#### prompt português
 
 ~~~plaintext
 who: str
@@ -187,7 +187,7 @@ how: str
 
 - - - - - - - - - - - - - - - - - - - - - - -
 
-#### prompt en
+#### prompt inglês
 
 ~~~plaintext
 who: str
